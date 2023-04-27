@@ -13,17 +13,22 @@ Josh Berman (link here)
 Chandler Denton (link here)
 
 # **Dataset Description**
-
 **Where It Was Obtained:**
+
 **Dimensions:**
+
 **Column Names:**
+
 **Data Types:**
 
 
 # **Our Questions**
 **Question One:**
+
 **Why is this Important?**
+
 **Question Two:**
+
 **Why is this Important?**
 
 # **Manipulations**
