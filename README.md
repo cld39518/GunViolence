@@ -1,8 +1,8 @@
-#Tabluea Gun Violence  Project
+**Tabluea Gun Violence  Project**
 
 
 
-#Members (Group 21482)
+**Members (Group 21482)**
 
 Christian Myrie (link here)
 
