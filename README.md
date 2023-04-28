@@ -1,4 +1,4 @@
-# **Tabluea Gun Violence Statistics Project**
+# **Tableau Gun Violence Statistics Project**
 
 
 
@@ -27,7 +27,7 @@ The Column Names are: Incident ID, Date, State, City, Address, Number Killed, Nu
 
 **Data Types:**
 
-Numerical, Date, String, Geogrpahical, Calculated Numerical
+Numerical, Date, String, Geographical, Calculated Numerical
 
 # **Our Questions**
 **Question One:**
@@ -36,7 +36,7 @@ What are the total number of people affected by gun violence _by state_ in 2021?
 
 **Why is this Important?**
 
-This is important because it allows us to see the magnitude of the effect that gun violence has on the different states. It allows us to see just how much of a problem gun violence is in the United States and it can help raise awareness of the issue. Another reason for its importance is for the sake of safety. By seeing our chart it is possible to see what are the safest states and what are the most violent. You can see where it which states are the safest to travel to or the safest to move to.
+This is important because it allows us to see the magnitude of the effect that gun violence has on the different states. It allows us to see just how much of a problem gun violence is in the United States and it can help raise awareness of the issue. Another reason for its importance is for the sake of safety. By seeing our chart it is possible to see what are the safest states and what are the most violent. You can see which states are the safest to travel to or the safest to move to.
 
 **Question Two:**
 
@@ -73,6 +73,6 @@ This graph shows a view of gun violence in the United States, specific to each c
 
 This graph shows that around 21k people were killed by gun violence, around 41k people were injured by gun violence, totaling to around 62k people affected by gun violence via death or injury.
 
-# **Tableua Packaged Workbook**
+# **Tableau Packaged Workbook**
 
 The packaged workbook is added as a file in the repository.
