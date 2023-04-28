@@ -23,7 +23,7 @@ There are 7 columns and 56,794 rows.
 
 **Column Names:**
 
-The Column Names are Incident ID, Date, State, City, Address, Number Killed, Number Injured
+The Column Names are: Incident ID, Date, State, City, Address, Number Killed, Number Injured
 
 **Data Types:**
 
