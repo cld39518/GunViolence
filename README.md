@@ -44,7 +44,7 @@ How much gun violence is there in each _individual city_ in the United States in
 
 **Why is this Important?**
 
-This is important because it gives you a keen understanding of the total amount of people injured 
+Knowing the amount of gun violence in individual cities of the United States gives you a good viewpoint of how each state is specifically affected. Overall it may seem like certain states are safe, but by looking at our map you can see that in certain locations that is not the case. You can see which cities that you should avoid when thinking about traveling or moving. This map also allows for us to question or make assumptions about gun violence in the United States. For example, Illinois seems like one of the more dangerous states, but by looking at the map you can see that almost all of the gun violence comes from Chicago. This brings up the question why there is so much violence in Chicago, and allows us to question what we can do to fix it. It also shows us that you could visit Illinois but avoid Chicago.
 
 # **Manipulations**
 
