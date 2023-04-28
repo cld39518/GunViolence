@@ -19,7 +19,7 @@ We obtained the dataset from Kaggle.
 
 **Dimensions:**
 
-There are 7 columns and 56,794 rows. 
+There are 7 columns and 56,794 rows after filtering the data for 2021. 
 
 **Column Names:**
 
