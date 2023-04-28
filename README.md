@@ -27,6 +27,7 @@ The Column Names are Incident ID, Date, State, City, Address, Number Killed, Num
 
 **Data Types:**
 
+String (Abc), Date, Geographic Values, Numerical Values
 
 # **Our Questions**
 **Question One:**
