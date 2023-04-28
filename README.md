@@ -20,11 +20,13 @@ We obtained the dataset from Kaggle.
 **Dimensions:**
 
 There are 7 columns and 56,794 rows. 
+
 **Column Names:**
 
 The Column Names are 
 **Data Types:**
 
+Incident ID, Date, State, City, Address, Number Killed, Number Injured
 
 # **Our Questions**
 **Question One:**
