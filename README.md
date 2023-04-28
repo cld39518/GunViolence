@@ -19,8 +19,10 @@ We obtained the dataset from Kaggle.
 
 **Dimensions:**
 
+There are 7 columns and xx rows. 
 **Column Names:**
 
+The Column Names are 
 **Data Types:**
 
 
