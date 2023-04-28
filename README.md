@@ -8,7 +8,7 @@ Christian Myrie (https://github.com/crm50057/GunViolence-/blob/main/README.md)
 
 Ben Satinoff (https://github.com/bss63709/Gun-Violence/blob/main/README.md)
 
-Josh Berman (link here)
+Josh Berman (https://github.com/joshbrmn/Gun-VIolence-by-State)
 
 Chandler Denton (https://github.com/cld39518/GunViolence/blob/main/README.md)
 
