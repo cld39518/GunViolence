@@ -27,6 +27,7 @@ The Column Names are
 
 **Data Types:**
 
+Numerical, Date, String, Geogrpahical, Calculated Numerical
 
 # **Our Questions**
 **Question One:**
