@@ -14,6 +14,7 @@ Chandler Denton (https://github.com/cld39518/GunViolence/blob/main/README.md)
 
 # **Dataset Description**
 **Where It Was Obtained:**
+We obtained the dataset from Kaggle. 
 
 **Dimensions:**
 
