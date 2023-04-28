@@ -50,7 +50,7 @@ This is important because it gives you a keen understanding of the total amount 
 
 First we manipulated the dataset to remove the years 2013-2020 and 2022. This left us with just 2021 as it has the most recent data. The purpose of removing these years is 2022 did not have data for the whole year and threw off our anlaysis, and we wnated to see more recent data so people could know where to live based on recent statistics not what happened nearly a decade ago. 
 
-We alaso calculated the total # of people affected by gun violence. Affected as in killed or injured, not as in imapcted such as surviors families. We did this by creating a calculated field that summed the number of people killed and injured by gunviolence. The purpose of this is to see not just how many people are killed, but how many people are shot at as that better encompassses what we believe is gun violence. 
+We also calculated the total # of people affected by gun violence. Affected as in killed or injured, not as in imapcted such as surviors families. We did this by creating a calculated field that summed the number of people killed and injured by gunviolence. The purpose of this is to see not just how many people are killed, but how many people are shot at as that better encompassses what we believe is gun violence. 
 
 # **Analysis & Results**
 
