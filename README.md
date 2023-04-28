@@ -64,6 +64,7 @@ In this graph the darker the color the more gun violence there is. The three sta
 **Cities map**
 <img width="1414" alt="Screenshot 2023-04-28 at 2 22 14 PM" src="https://user-images.githubusercontent.com/129543675/235224680-24faa06c-7b22-465a-9c3f-6ae8e33a8d37.png">
 
+This graph shows a view of gun violence in the United States, specific to each city. Each dot represents a city in the United States with gun violence, and the size of the circle represents the magnitude of gun violence in the individual city. The larger the circle the more gun violence. We are able to see that most gun violence is in the east or west coast, with the midwest being relatively unaffected. One thing that was surprising was just how dangerous Chicago was. According to the map there is over 3.5x more gun violence in Chicago than the entire state of Maine, New Hampshire, Vermont, Rhode Island, Massachusetts, and Connecticut combined. You could use this information to figure out the safest places to relocate or travel.
 
 
 
