@@ -6,7 +6,7 @@
 
 Christian Myrie (link here)
 
-Ben Satinoff (link here)
+Ben Satinoff (https://github.com/bss63709/Gun-Violence/blob/main/README.md)
 
 Josh Berman (link here)
 
