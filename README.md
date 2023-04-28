@@ -40,7 +40,7 @@ This is important because it allows us to see the magnitude of the effect that g
 
 **Question Two:**
 
-How much gun violence is there in each individual city in the United States in 2021?
+How much gun violence is there in each _individual city_ in the United States in 2021?
 
 **Why is this Important?**
 
