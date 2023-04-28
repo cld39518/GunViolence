@@ -29,7 +29,7 @@ The Column Names are
 # **Our Questions**
 **Question One:**
 
-What are the total number of people affected by gun violence by state in 2021?
+What are the total number of people affected by gun violence _by state_ in 2021?
 
 **Why is this Important?**
 
