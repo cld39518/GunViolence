@@ -45,6 +45,11 @@ This is important because it gives you a keen understanding of the total amount 
 
 # **Manipulations**
 
+Were there any manipulations or calculations that needed to be performed on the data, what were
+they, describe the purpose and how they were accomplished
+
+We had a few manipualtions and calculations. Frst we manipulated the dataset to remove the years 2013-2020 and 2022. This left us with 2021 as it has the most recent data. we did not use 2022 as it did not have data for the whole year and threw off our anlaysis. We alaso calculated the total # of people affected by gun violence. Affected as in killed or injured, not as in imapcted such as surviors families. We did this by creating a calculated field that summed the number of people killed and injured by gunviolence. 
+
 # **Analysis & Results**
 
 # **Tableua Packaged Workbook**
