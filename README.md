@@ -10,7 +10,7 @@ Ben Satinoff (https://github.com/bss63709/Gun-Violence/blob/main/README.md)
 
 Josh Berman (link here)
 
-Chandler Denton (link here)
+Chandler Denton (https://github.com/cld39518/GunViolence/blob/main/README.md)
 
 # **Dataset Description**
 **Where It Was Obtained:**
