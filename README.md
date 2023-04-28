@@ -4,7 +4,7 @@
 
 # **Members (Group 21482)**
 
-Christian Myrie (link here)
+Christian Myrie (https://github.com/crm50057/GunViolence-/blob/main/README.md)
 
 Ben Satinoff (https://github.com/bss63709/Gun-Violence/blob/main/README.md)
 
