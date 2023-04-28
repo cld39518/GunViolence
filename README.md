@@ -63,6 +63,8 @@ In this graph the darker the color the more gun violence there is. The three sta
 
 <img width="1399" alt="Screenshot 2023-04-28 at 2 23 32 PM" src="https://user-images.githubusercontent.com/129543675/235224696-f155e2f2-3e99-4e02-a53a-274afca68337.png">
 
+This graph shows that around 21k people were killed by gun violence, around 41k people were injured by gun violence, totaling to around 62k people affected by gun violence via death or injury.
+
 # **Tableua Packaged Workbook**
 
 The packaged workbook is added as a file in the repository.
