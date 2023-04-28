@@ -54,17 +54,20 @@ We also calculated the total # of people affected by gun violence. Affected as i
 
 # **Analysis & Results**
 
+**States Map**
 <img width="1415" alt="Screenshot 2023-04-28 at 2 22 52 PM" src="https://user-images.githubusercontent.com/129543675/235224620-ce319fa4-061d-4fa2-ae17-19da13daa455.png">
 
 In this graph the darker the color the more gun violence there is. The three states with the most gun violence in order are Illinois, Texas, and California. I find this interesting because I did not think that out of all of the states Illinois would have the most violence. From this graph it seems that outside of California, east coast states are more violent than west coast states. 
 
 
 
+**Cities map**
 <img width="1414" alt="Screenshot 2023-04-28 at 2 22 14 PM" src="https://user-images.githubusercontent.com/129543675/235224680-24faa06c-7b22-465a-9c3f-6ae8e33a8d37.png">
 
 
 
 
+**Total Killed and Injured across USA in 2021**
 <img width="1399" alt="Screenshot 2023-04-28 at 2 23 32 PM" src="https://user-images.githubusercontent.com/129543675/235224696-f155e2f2-3e99-4e02-a53a-274afca68337.png">
 
 This graph shows that around 21k people were killed by gun violence, around 41k people were injured by gun violence, totaling to around 62k people affected by gun violence via death or injury.
